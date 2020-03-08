@@ -1,0 +1,143 @@
+2020-03-04T06:34:38+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:35:14+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:35:40+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:35:52+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:36:15+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:42:20+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:42:32+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:43:16+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:43:45+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:44:00+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:44:28+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php:9
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/template.php(722): require_once()
+#1 /www/wwwroot/fashiongirltrend/wp-includes/template.php(671): load_template('/www/wwwroot/fa...', true)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/page.php(12): get_header()
+#4 /www/wwwroot/fashiongirltrend/wp-includes/template-loader.php(98): include('/www/wwwroot/fa...')
+#5 /www/wwwroot/fashiongirltrend/wp-blog-header.php(19): require_once('/www/wwwroot/fa...')
+#6 /www/wwwroot/fashiongirltrend/index.php(17): require('/www/wwwroot/fa...')
+#7 {main}
+  thrown in /www/wwwroot/fashiongirltrend/wp-content/themes/oceanwp/header.php on line 9
+
+2020-03-04T06:44:50+00:00 CRITICAL Uncaught Error: Class 'OceanWP_Customizer_Range_Control' not found in /www/wwwroot/fashiongirltrend/wp-content/plugins/ocean-modal-window/ocean-modal-window.php:270
+Stack trace:
+#0 /www/wwwroot/fashiongirltrend/wp-includes/class-wp-hook.php(288): Ocean_Modal_Window->customize_register(Object(WP_Customize_Manager))
+#1 /www/wwwroot/fashiongirltrend/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/fashiongirltrend/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /www/wwwroot/fashiongirltrend/wp-includes/class-wp-customize-manager.php(928): do_action('customize_regis...', Object(WP_Customize_Manager))
+#4 /www/wwwroot/fashiongirltrend/wp-includes/class-wp-hook.php(288): WP_Customize_Manager->wp_loaded('')
+#5 /www/wwwroot/fashiongirltrend/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/fashiongirltrend/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /www/wwwroot/fashiongirltrend/wp-settings.php(545): do_action('wp_load in /www/wwwroot/fashiongirltrend/wp-content/plugins/ocean-modal-window/ocean-modal-window.php on line 270
+
