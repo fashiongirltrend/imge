@@ -1,8 +1,0 @@
-2020-03-10T11:00:40+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /www/wwwroot/fashiongirltrend/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-helpers.php:103
-Stack trace:
-#0 /www/wwwroot/fashiongirltrend/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-wordpress-importer.php(1006): OWP_Demos_Helpers::wp_get_http('https://store.o...', '/www/wwwroot/fa...')
-#1 /www/wwwroot/fashiongirltrend/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-wordpress-importer.php(960): WP_Import->fetch_remote_file('https://store.o...', Array)
-#2 /www/wwwroot/fashiongirltrend/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-wordpress-importer.php(697): WP_Import->process_attachment(Array, 'https://store.o...')
-#3 /www/wwwroot/fashiongirltrend/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-wordpress-importer.php(114): WP_Import->process_posts()
-#4 /www/wwwroot/fashiongirltrend/wp-content/plugins/ocean-extra/includes/panel/demos in /www/wwwroot/fashiongirltrend/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-helpers.php on line 103
-
