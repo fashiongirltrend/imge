@@ -1,0 +1,556 @@
+2020-03-17T07:29:32+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9debbbcbad84482de330c8c9e7d2a7e8
+            [Date] => Mar 17, 2020 @ 7:29
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.66767
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Ki46f7E9gi/5kqki+EBqqUNdr+/vtfn4IbXIQP/Ps30=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 9debbbcbad84482de330c8c9e7d2a7e8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 07:29:32 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=4f7efde0-cb69-4b22-a070-09f803a23c5e; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7ee9c72d0ca79e6b036340bf2a87d31e
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.52254
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 0N+9Oo7u+bPKXNhRpgdFUFi4P3WTWoqfWq2AtPivA44=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 7ee9c72d0ca79e6b036340bf2a87d31e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:43 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=dc29ea4b-4542-4b2a-8487-519e46afcbdc; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 83aef51028b3e6d395f6da7fe55f851c
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.12666
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 3tdOCjAxjT8IDJiBlIl4LCoUk2o/XjsZo4KcOJf61eE=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 83aef51028b3e6d395f6da7fe55f851c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:43 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=3d26c2a4-e7ed-4eb7-8301-58253b0f0bdd; Path=/; HttpOnly
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 83aef51028b3e6d395f6da7fe55f851c
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.12789
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => MtRm4+xnqsAQJQEcrvQ28FAyZOpyjYUSzLD8WlcDQo8=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 83aef51028b3e6d395f6da7fe55f851c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:43 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=a4aec1b4-3922-46da-b4d2-ab1faa09ce74; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 83aef51028b3e6d395f6da7fe55f851c
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.13112
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => F8YMWoRdjS+Tldb973QjpZ6pxP/rmMbBj09MJm1Bkbc=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 83aef51028b3e6d395f6da7fe55f851c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:43 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=5da41711-3070-4aef-ab11-6f2ee04fef47; Path=/; HttpOnly
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 83aef51028b3e6d395f6da7fe55f851c
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.13341
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => XzgquA9aiUUb1VqmYCbTrbrl9Kcsj1f0y2bSJE/OO8Y=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 83aef51028b3e6d395f6da7fe55f851c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:44 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=00ef72c4-31eb-45ce-ae14-d48f9a2fafbd; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 08c2396a0f2fed4127d24139d7782ff3
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.1271
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => AejLwB/XnYpe7OtjdrS2YmfIZB2JZtByC+7jv1ilQFs=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 08c2396a0f2fed4127d24139d7782ff3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:44 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=25861238-b9d7-4d97-ad97-215a0d9e3052; Path=/; HttpOnly
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 08c2396a0f2fed4127d24139d7782ff3
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.12676
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => VFEeR3qfdIx/EW0sYASiPludY1etjkotzOYh0aEP0TI=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 08c2396a0f2fed4127d24139d7782ff3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:44 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=a0fd35ef-27d1-4a97-9055-e386b1c32ee4; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 08c2396a0f2fed4127d24139d7782ff3
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.12741
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Z4r4WDMvTxtnsb7Sp7LbjLq8FEumgKTPy+qZIDV/rfc=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 08c2396a0f2fed4127d24139d7782ff3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:44 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=a4ba994d-0e42-423e-9b7f-ba66146b6064; Path=/; HttpOnly
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 08c2396a0f2fed4127d24139d7782ff3
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.12783
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 1wbOGGx39dI6HxggjoBL5gSKkhnNxMGpxv+TQlZ8MlY=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 08c2396a0f2fed4127d24139d7782ff3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:44 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=37366d17-264b-47f2-a758-1cabd8b45850; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-03-17T08:31:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 08c2396a0f2fed4127d24139d7782ff3
+            [Date] => Mar 17, 2020 @ 8:31
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.13771
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.0.0 Hookshot (WordPress/5.3.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.fashiongirltrend.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 2+qqbC84eY8SJMM8JcsVrtaeTdSCPfdTzq748Ltc6Fs=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 08c2396a0f2fed4127d24139d7782ff3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Tue, 17 Mar 2020 08:31:44 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=473e1c04-9482-4f4b-ad23-93d8884a097f; Path=/; HttpOnly
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
